@@ -1,4 +1,6 @@
 <html>
-	<head></head>
+	<head>
+		<title>index.jsp</title>
+	</head>
 	<body></body>
 </html>
